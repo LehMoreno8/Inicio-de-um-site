@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Tela 1</title>
+</head>
+<body>
+    <h1>Cadastro do Aluno</h1>
+    <p>clique no link desejado para se cadastrar.</p>
+    <a href="tela2.php">cadastro Funcionario</a><br>
+    <a href="tela3.php">cadastro Aluno</a><br>
+   <a href="tela4.php">cadastro curso</a><br>
+   <a href="tela5.php">cadastro do aluno5</a><br>
+   <a href="tela6.php">cadastro do aluno6</a><br>
+</body>
+</html>
